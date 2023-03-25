@@ -110,4 +110,4 @@ clear_button.pack(padx=10, pady=10, side=tk.LEFT)
 button = tk.Button(root, text="DONATE", command=open_link)
 button.pack(padx=10, pady=10, side=tk.BOTTOM)
 
-root.mainloop()
+root.mainloop() 
